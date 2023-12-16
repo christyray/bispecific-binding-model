@@ -1,0 +1,5 @@
+# .csv and .rds files from simulation output available on Zenodo (10.5281/zenodo.10393562)
+.Rproj.user
+*.csv
+*.rds
+*.log
