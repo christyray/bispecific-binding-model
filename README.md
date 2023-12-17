@@ -1,5 +1,11 @@
 # IL6R/IL8R Antibody Binding Model Code
 
+<!-- badges: start -->
+
+[![DOI:10.5281/zenodo.10396436](https://zenodo.org/badge/DOI/10.5281/zenodo.10396436.svg)](https://doi.org/10.5281/zenodo.10396436)
+
+<!-- badges: end -->
+
 Christina M.P. Ray, Huilin Yang, Jamie B. Spangler, Feilim Mac Gabhann
 
 This repository contains all code used in the article "Mechanistic computational modeling of monospecific and bispecific antibodies targeting interleukin-6/8 receptors". The model is comprised of a coupled set of ordinary differential equations (ODEs) where each individual ODE describes one molecule (antibody or receptor) or molecular complex (antibody + receptor). The terms in the ODEs represent each binding interaction (binding and unbinding processes) in the system.
